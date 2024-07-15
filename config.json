@@ -14,19 +14,19 @@
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
   "adminOnly": {
     "enable": true,
-    "ignoreCommand": []
+    "ignoreCommand": [.]
   },
   "adminBot": [
-    "61552611621933",
-    "100058415170590",
-    "61550569314004",
-    "100094547994769",
-    "100065176818341",
-    "100043895143106",
-    "61550033226671",
-    "100087513362848",
-    "100095091623070",
-    "61554300204256"
+    "61556417013686",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
